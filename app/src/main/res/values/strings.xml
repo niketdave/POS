@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">FoodOrder</string>
+    <string name="Details">Details</string>
+    <string name="b1">Compate Your Order</string>
+    <string name="b2">Menu</string>
+    <string name="b3">FeedBack</string>
+    <string name="b4">Suggestion</string>
+    <string name="b5">About Us</string>
+    <string name="b6">Help?</string>
+<string name="aboutus">
+
+Narcos Technosys is proud to present eZee Menu, innovative solution which is easy to use and completely customizable according to the requirements. Digital restaurant menu will allow restaurant to present menu in an attractive and interactive manner. eZee offers complete range hospitality software solutions that address every requirement and segment in the industry. Solutions from eZee have been developed keeping in mind the complexity and inter-connectivity of the various functions in the industry and keeping up with the international standards of practice and technology.
+</string>
+    <string name="title_activity_splesh_activity">Splesh_activity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_menu">Menu</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_menu_food">menu_food</string>
+
+
+    <string name="delete">DELETE</string>
+    //For CardView
+
+
+    <string name="Name">Card View</string>
+    <string name="setting">Settings</string>
+    <string name="action_add_cart">Add to Cart</string>
+    <string name="backdrop_title">LOVE MUSIC</string>
+    <string name="backdrop_subtitle">This season top 20 albums</string>
+
+</resources>
